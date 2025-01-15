@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43456573947",
+    "project_id": "jarin-e7ce0",
+    "storage_bucket": "jarin-e7ce0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43456573947:android:ccf4dd4a086c00a2b6db5e",
+        "android_client_info": {
+          "package_name": "com.pus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkxnCmmlGqVPmG9OGIbo-2PTQGO-5Fac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
